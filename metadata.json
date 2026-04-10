@@ -1,0 +1,5 @@
+{
+  "name": "ScamGuard AI",
+  "description": "AI-powered scam detection for messages and audio files. Analyze suspicious content to protect yourself from fraud.",
+  "requestFramePermissions": ["microphone"]
+}
